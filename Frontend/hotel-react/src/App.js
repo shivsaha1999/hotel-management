@@ -89,14 +89,15 @@ class App extends Component {
               </Link>
             </li>
 
-//Removing the reserve tab from admin navbar
-//shivangi
+{/*Removing the reserve tab from admin navbar
+shivangi*/}
             
-//             <li className="nav-item ml-3">
-//               <Link to={"/reserve"} className="nav-link">
-//                 Reserve
-//               </Link>
-//             </li>
+{/*             <li className="nav-item ml-3">
+              <Link to={"/reserve"} className="nav-link">
+                Reserve
+              </Link>
+            </li>
+	   */}
 
    
             { showEmployeeAndAdmin &&  (
